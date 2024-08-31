@@ -22,7 +22,7 @@ public class RepeatBackgroundX : MonoBehaviour
         }
     }
 
- 
+
 }
 
 
